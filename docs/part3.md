@@ -20,5 +20,5 @@ Validate your `03analysis.ipynb` with the screenshots below:
 ![rev_rating_low](/docs/images/rev_rating_low.png)  
 *Proportions of Low Purchases* 
 
-![rev_rating_low](/docs/images/rev_rating_high.png)  
+![rev_rating_high](/docs/images/rev_rating_high.png)  
 *Proportions of High Purchases* 
